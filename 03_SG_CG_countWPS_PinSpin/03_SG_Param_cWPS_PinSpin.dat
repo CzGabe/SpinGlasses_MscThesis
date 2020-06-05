@@ -1,0 +1,27 @@
+Ez egy szabvanyos parameter file! Altalanos parameterek:
+J matrixot file-bol importaljuk-e? (File neve vagy "nem")
+nem
+
+N (spinek szama): N=	(akkor kell csak, ha J matrixot NEM file-bol importaljuk)
+20
+
+Tobb homerseklet eseten a legkisebb T: Tmin=
+0.6
+
+Tobb homerseklet eseten a legnagyobb T: Tmax=
+0.6
+
+Tobb homerseklet eseten a két szelsoertek kozti felbontas: dT=
+0.5
+
+Megfogando spin indexe: chosenSpin= (sorrend miatt pl:"03" / "007")
+05
+
+Spin iranya: chosenSpinVal= (+/- 1)
++1
+
+Boltzman-faktor: kB=
+1
+
+Korrelaciok PDDF bin merete: bin_C=
+0.1

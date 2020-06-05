@@ -1,0 +1,33 @@
+Ez egy szabvanyos parameter file! Altalanos parameterek:
+J matrixot file-bol importaljuk-e? (File neve vagy "nem")
+nem
+
+N (spinek szama): N=	(akkor kell csak, ha J matrixot NEM file-bol importaljuk)
+---
+
+Tobb homerseklet eseten a legkisebb T: Tmin=
+0.6
+
+Tobb homerseklet eseten a legnagyobb T: Tmax=
+0.6
+
+Tobb homerseklet eseten a két szelsoertek kozti felbontas: dT=
+0.5
+
+Inhomogen H ter: chosenSpin= (file neve,vagy ha "nem", akkor homogen teret kap a lentebbiek alapjan)
+nem
+
+Tobb kulsoter eseten a legkisebb H: Hmin=
+0
+
+Tobb kulsoter eseten a legnagyobb H: Hmax=
+0
+
+Tobb kulsoter eseten a két szelsoertek kozti felbontas: dH=
+0.5
+
+Boltzman-faktor: kB=
+1
+
+Korrelaciok PDDF bin merete: bin_C=
+0.1

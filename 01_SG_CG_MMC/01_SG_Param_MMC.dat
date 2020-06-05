@@ -1,0 +1,60 @@
+Ez egy szabvanyos SpinGlass_MMC parameter file!
+J matrixot file-bol importaljuk-e? (File neve vagy "nem")
+nem
+
+Kiindulasi s-vektort file-bol importaljuk? (File neve vagy "nem")
+nem
+
+N (spinek szama): N=	(akkor kell csak, ha J matrixot NEM file-bol importaljuk)
+20
+
+Tobb homerseklet eseten a legkisebb T: Tmin=
+0.6
+
+Tobb homerseklet eseten a legnagyobb T: Tmax=
+0.6
+
+Tobb homerseklet eseten a két szelsoertek kozti felbontas: dT=
+0.5
+
+Inhomogen H ter: (file neve,vagy ha "nem", akkor homogen teret kap a lentebbiek alapjan)
+nem
+
+Tobb kulsoter eseten a legkisebb H: Hmin=
+0.0
+
+Tobb kulsoter eseten a legnagyobb H: Hmax=
+0.0
+
+Tobb kulsoter eseten a ket szelsoertek kozti felbontas: dH=
+0.5
+
+Boltzman-faktor: kB=
+1
+
+MMC sweep-ek szama: tMax=
+10000000
+
+Korrelaciok PDDF bin merete: bin_C=
+0.1
+
+Energia mintaveteli frekvencia eSampling=
+1
+
+magnesezettseg mintaveteli frekvenciaja: mSampling=
+10000
+
+q_EA mintaveteli frekvenciaja: qEASampling=
+10000
+
+Minden X-edig "snapshot" kimentese (max(tMax/X)=1000): X= 
+1000000
+
+Snapshot pbm-mesh-be: x-oldal:
+5
+
+Snapshot pbm-mesh-be: y-oldal:
+4
+
+Egy spint merete pixelben: spinPixelSize=
+10

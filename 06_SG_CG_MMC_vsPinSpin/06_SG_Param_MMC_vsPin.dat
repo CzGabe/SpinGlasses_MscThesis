@@ -1,0 +1,57 @@
+Ez egy szabvanyos SpinGlass_MMC parameter file!
+J matrixot file-bol importaljuk-e? (File neve vagy "nem")
+J_N20_0.0_01.dat
+
+Kiindulasi s-vektort file-bol importaljuk? (File neve vagy "nem")
+spinIn_N20_antiFerro.dat
+
+N (spinek szama): N=	(akkor kell csak, ha J matrixot NEM file-bol importaljuk)
+---
+
+Tobb homerseklet eseten a legkisebb T: Tmin=
+0.6
+
+Tobb homerseklet eseten a legnagyobb T: Tmax=
+0.6
+
+Tobb homerseklet eseten a két szelsoertek kozti felbontas: dT=
+0.5
+
+Megfogando spin indexe: chosenSpin= (sorrend miatt pl:"03" / "007")
+05
+
+Spin iranya: chosenSpinVal= (+/- 1)
++1
+
+Boltzman-faktor: kB=
+1
+
+MMC sweep-ek szama: tMax=
+1000000
+
+Korrelaciok PDDF bin merete: bin_C=
+0.1
+
+Energia mintaveteli frekvencia eSampling=
+1000
+
+magnesezettseg mintaveteli frekvenciaja: mSampling=
+1000
+
+q_EA mintaveteli frekvenciaja: qEASampling=
+1000
+
+q_AlfaBeta mintaveteli frekvenciaja: qABSampling=
+10
+
+q_AlfaBeta bin merete: bin_qAB=
+0.1
+
+Snapshot pbm-mesh-be: x-oldal:
+5
+
+Snapshot pbm-mesh-be: y-oldal:
+4
+
+Egy spin merete pixelben: spinPixelSize=
+10
