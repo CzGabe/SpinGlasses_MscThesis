@@ -1,6 +1,6 @@
 # SpinGlasses_MscThesis
 
-## Spin Glass simulation on small complete graphs with different setups for my MSc Thesis.
+## Spin Glass simulation on small, complete graphs with different setups for my MSc Thesis in 2012.
 **Code comments and Thesis in Hungarian.**
 
 ## Summary from the thesis:
